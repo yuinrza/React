@@ -5,12 +5,10 @@ import {Button, Container, Modal, ModalBody, ModalHeader, FormGroup, ModalFooter
 import Filtrados from './components/filtrados';
 
 const data = [ 
-  {id: 1, nombre: "Ankys Serrano",  email: "ankys@yuni.com", telefono: "20198682"},
-  {id: 2, nombre: "Jose Lisandro Ruiz",  email: "jose@yuni.com", telefono: "20198773"},
-  {id: 3, nombre: "Ruth Piter", email: "ruth@yuni.com", telefono: "20198625"},
+  {id: 1, nombre: "yunirza garcia",  email: "yuni@yuni.com", telefono: "20156982"},
+  {id: 2, nombre: "Jorge Armando flores",  email: "jorge@armando.com", telefono: "20526773"},
+  {id: 3, nombre: "jessica garcia", email: "jessica@yessi.com", telefono: "25698625"},
 ];
-
-
 
 /*
 
